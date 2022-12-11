@@ -1,0 +1,29 @@
+.cursor{
+    cursor: pointer;
+    color: white
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.navbarFundo{
+   
+    background-color: #2bc4c3;
+}
+
+/* .logo{
+    background-image: url(https://media.discordapp.net/attachments/1051276202746318870/1051316117672579112/NOVA_COLECAO_VERAO-removebg-preview.png?width=468&height=468 );
+    background-repeat: no-repeat;
+    width: 10vh; 
+    min-height: 10vh;
+    background-size: cover;
+    background-position: center;
+} */
+
+.logo img{
+    height: 90px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
