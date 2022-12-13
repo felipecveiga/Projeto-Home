@@ -1,0 +1,25 @@
+.imagem2{
+    background-image: url(img/cadastro3.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.fundo{
+    background:linear-gradient(rgba(0, 250, 75, 0.5),transparent);
+}
+
+.button{
+    background-color: #28c728 !important;
+    color: white !important;
+}
