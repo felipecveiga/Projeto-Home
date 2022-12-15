@@ -1,0 +1,43 @@
+.imagem2{
+    background-image: url(https://www.youagro.com/blog/wp-content/uploads/2021/03/Image-by-anncapictures-from-Pixabay.jpg);
+    background-repeat: no-repeat;
+    width: 100vh; 
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.fundo{
+    background:linear-gradient(rgba(0, 250, 75, 0.5),transparent);}
+
+.form{
+    position:relative;
+    background-color: #ffffff90;
+    border-radius: 8px;
+    padding: 60px;
+    box-shadow: 3px, 3px, 1px, 0px #00000070;   
+    align-items: center;
+    
+    
+}
+
+/* .input{
+    min-width: 280px !important;
+    border-radius: 22px !important;
+    border: 4px #6f7e8a solid !important;
+    border: none;
+    outline: none;
+}
+
+.input input{
+    border: none;
+    outline: none;
+} */
